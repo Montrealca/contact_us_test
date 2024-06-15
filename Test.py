@@ -1,5 +1,5 @@
 import logging
-import pytest
+import Pytest
 import pandas as pd
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
