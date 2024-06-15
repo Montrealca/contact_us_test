@@ -1,4 +1,4 @@
-import logging
+import loggin
 import pytest
 from Utils.Browser_setup import get_driver
 from Contact_Us_Test.logging_config import setup_logging

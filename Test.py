@@ -1,4 +1,4 @@
-import logging
+import loggin
 import Pytest
 import pandas as pd
 from selenium.webdriver.common.by import By
